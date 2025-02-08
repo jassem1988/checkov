@@ -31,9 +31,9 @@ rustup update
 ```bash
 python3 -m venv <myenvpath>
 ```
-- Activate the virtual environment
+- Activate the virtual environment but putting the path of the new env
 ```bash
-source <yourenvpath>.venv/bin/activate
+source <yourEnvname>/bin/activate
 ```
 - Then install Checkov
 ```bash
